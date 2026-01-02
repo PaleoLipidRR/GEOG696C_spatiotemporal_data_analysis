@@ -155,7 +155,6 @@ cython_debug/
 #.idea/
 *.aux
 *.gz
-geog696f_syllabus.tex
 
 # Ignore LaTeX ancillary files	
 *.aux
