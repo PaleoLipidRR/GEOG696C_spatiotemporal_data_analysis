@@ -6,6 +6,10 @@
 *.log
 *.gz
 *.tex
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
 
 # Ignore large data files
 01_introduction_to_python/HadISST_sst.nc
