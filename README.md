@@ -40,6 +40,8 @@ conda env create -f environment.yml
 conda activate geog696c_python311
 ```
 
+A cheatsheet of additional `conda` commands can be found [here](https://conda.io/projects/conda/en/latest/user-guide/cheatsheet.html). 
+
 ## Integrated Development Environments (IDE)
 
 Unlike MATLAB and R (via RStudio), there is no single software package used for Python development.  Indeed, you could develop Python with just text files and the command line.  In this class I will used [VS Code](https://code.visualstudio.com/), a free and multi-languages IDE.  You can also develop your code entirely in [Jupyter notebooks in your browser](https://www.codecademy.com/article/how-to-use-jupyter-notebooks) if you wish.  Another popular IDE is [PyCharm](https://www.jetbrains.com/pycharm/), which is excellent but not free.  Finally, there is now [Positron](https://github.com/posit-dev/positron), from the makers of RStudio - it is still in development, but looks promising. 
